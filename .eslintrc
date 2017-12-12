@@ -7,11 +7,8 @@
     "expect": true
   },
   "rules": {
-    
-Error: Parse error on line 9:
-...},  "rules": {    // Ignore Rules    
----------------------^
-Expecting 'STRING', '}'
+
+},  "rules": {    // Ignore Rules
 // Ignore Rules
     "strict": 0,
     "no-underscore-dangle": 0,

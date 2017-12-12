@@ -3,7 +3,7 @@ var lookup     = require('..').lookup,
     currencies = require('..').currencies,
     languages  = require('..').languages,
     assert     = require('chai').assert,
-    _          = require('underscore');
+    _          = require('lodash');
 
 describe('lookup', function () {
 

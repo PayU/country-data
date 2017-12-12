@@ -3,7 +3,7 @@
 // Take the csv files and convert them to standard format
 
 var path = require('path');
-var _ = require('underscore');
+var _ = require('lodash');
 var csv = require('csv');
 var fs = require('fs');
 

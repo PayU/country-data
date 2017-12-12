@@ -3,7 +3,7 @@
 var countries = require('..').countries;
 var regions = require('..').regions;
 var assert = require('assert');
-var _ = require('underscore');
+var _ = require('lodash');
 
 describe('regions', function () {
 

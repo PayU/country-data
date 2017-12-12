@@ -1,7 +1,7 @@
 var languages  = require('..').languages,
     currencies = require('..').currencies,
     assert     = require('assert'),
-    _          = require('underscore');
+    _          = require('lodash');
 
 describe('languages', function () {
 

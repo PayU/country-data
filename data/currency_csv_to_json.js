@@ -3,7 +3,7 @@
 // Take the csv and convert to json and tidy it up so that it is consistent.
 
 var path = require('path');
-var _ = require('underscore');
+var _ = require('lodash');
 var csv = require('csv');
 var canonicalJSON = require('canonical-json');
 var fs = require('fs');

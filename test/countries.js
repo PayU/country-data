@@ -4,7 +4,7 @@ var countries  = require('..').countries;
 var currencies = require('..').currencies;
 var languages  = require('..').languages;
 var  assert = require('assert');
-var _ = require('underscore');
+var _ = require('lodash');
 
 describe('countries', function () {
 

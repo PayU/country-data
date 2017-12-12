@@ -2,7 +2,7 @@ var callingCodes = require('..').callingCodes.all,
     countries    = require('..').countries.all,
     callingCountries = require('..').callingCountries,
     assert       = require('assert'),
-    _            = require('underscore');
+    _            = require('lodash');
 
 describe('calling codes', function () {
 

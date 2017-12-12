@@ -1,6 +1,6 @@
 'use strict';
 
-var _ = require('underscore');
+var _ = require('lodash');
 var continents = require('./data/continents');
 var regions = require('./data/regions');
 var countriesAll = require('./data/countries.json');

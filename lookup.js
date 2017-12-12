@@ -1,4 +1,4 @@
-var _ = require('underscore');
+var _ = require('lodash');
 
 module.exports = init;
 
@@ -11,7 +11,7 @@ function init(o) {
 }
 
 function search(data, query) {
-  var q = _.pairs(query);
+  var q = _.toPairs(query);
 
   return data.filter(function(d) {
     return q.filter(function(v) {
