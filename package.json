@@ -1,5 +1,5 @@
 {
-  "name": "country-data",
+  "name": "currency-country-data",
   "version": "0.0.31",
   "description": "Data about countries - like their ISO codes and currencies",
   "homepage": "https://github.com/kobik/country-data",
@@ -17,7 +17,7 @@
   "keywords": [
     "data",
     "country",
-    "currecny"
+    "currency"
   ],
   "author": "Edmund von der Burg",
   "license": "MIT",
