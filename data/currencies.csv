@@ -86,7 +86,6 @@ LBP,0,Lebanese pound,422
 LKR,2,Sri Lankan rupee,144
 LRD,2,Liberian dollar,430
 LSL,2,Lesotho loti,426
-LTL,2,Lithuanian litas,440
 LVL,2,Latvian lats,428
 LYD,3,Libyan dinar,434
 MAD,2,Moroccan dirham,504
@@ -147,7 +146,7 @@ TTD,2,Trinidad and Tobago dollar,780
 TWD,2,New Taiwan dollar,901
 TZS,2,Tanzanian shilling,834
 UAH,2,Ukrainian hryvnia,980
-UGX,2,Ugandan shilling,800
+UGX,0,Ugandan shilling,800
 USD,2,United States dollar,840
 USN,2,United States dollar (next day) (funds code),997
 USS,2,"United States dollar (same day) (funds code) (one source[who?] claims it is no longer used, but it is still on the ISO 4217-MA list)",998
