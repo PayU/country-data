@@ -1,6 +1,9 @@
-# Country Data
+# Country and currency lookup
 
 [![Build Status](https://travis-ci.org/kobik/country-data.svg?branch=master)](https://travis-ci.org/kobik/country-data)
+
+Forked from https://github.com/OpenBookPrices/country-data
+
 
 There are lots of little bits of data that you often need relating to countries,
 and I couldn't find any easy to use source of it. So I compiled it all here.

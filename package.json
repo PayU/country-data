@@ -1,7 +1,7 @@
 {
-  "name": "currency-country-data",
-  "version": "0.0.31",
-  "description": "Data about countries - like their ISO codes and currencies",
+  "name": "cc-lookup",
+  "version": "0.0.1",
+  "description": "Country and currency lookup",
   "homepage": "https://github.com/kobik/country-data",
   "bugs": {
     "url": "https://github.com/kobik/country-data/issues"
@@ -19,7 +19,7 @@
     "country",
     "currency"
   ],
-  "author": "Edmund von der Burg",
+  "author": "Kobi Carmeli",
   "license": "MIT",
   "devDependencies": {
     "canonical-json": "~0.0.4",
