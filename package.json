@@ -1,7 +1,7 @@
 {
-  "name": "cc-lookup",
+  "name": "country-data-lookup",
   "version": "0.0.1",
-  "description": "Country and currency lookup",
+  "description": "Country data lookup",
   "homepage": "https://github.com/kobik/country-data",
   "bugs": {
     "url": "https://github.com/kobik/country-data/issues"
