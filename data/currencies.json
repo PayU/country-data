@@ -522,12 +522,6 @@
     "number": "426"
   },
   {
-    "code": "LTL",
-    "decimals": 2,
-    "name": "Lithuanian litas",
-    "number": "440"
-  },
-  {
     "code": "LVL",
     "decimals": 2,
     "name": "Latvian lats",
@@ -889,7 +883,7 @@
   },
   {
     "code": "UGX",
-    "decimals": 2,
+    "decimals": 0,
     "name": "Ugandan shilling",
     "number": "800"
   },
