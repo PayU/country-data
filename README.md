@@ -4,16 +4,8 @@
 
 Forked from https://github.com/OpenBookPrices/country-data
 
-
 There are lots of little bits of data that you often need relating to countries,
 and I couldn't find any easy to use source of it. So I compiled it all here.
-
-## Work in Progress
-
-This code base may change a bit until it hits `0.1.x` - feel free to use it, but be sure to check between upgrades.
-
-I suspect that many of the `currencies` entries on the countries may be wrong. Help checking them would be appreciated.
-
 
 ## Countries
 

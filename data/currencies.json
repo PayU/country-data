@@ -15,13 +15,13 @@
     "code": "ALL",
     "decimals": 2,
     "name": "Albanian lek",
-    "number": "8"
+    "number": "008"
   },
   {
     "code": "AMD",
     "decimals": 2,
     "name": "Armenian dram",
-    "number": "51"
+    "number": "051"
   },
   {
     "code": "ANG",
@@ -39,13 +39,13 @@
     "code": "ARS",
     "decimals": 2,
     "name": "Argentine peso",
-    "number": "32"
+    "number": "032"
   },
   {
     "code": "AUD",
     "decimals": 2,
     "name": "Australian dollar",
-    "number": "36"
+    "number": "036"
   },
   {
     "code": "AWG",
@@ -69,13 +69,13 @@
     "code": "BBD",
     "decimals": 2,
     "name": "Barbados dollar",
-    "number": "52"
+    "number": "052"
   },
   {
     "code": "BDT",
     "decimals": 2,
     "name": "Bangladeshi taka",
-    "number": "50"
+    "number": "050"
   },
   {
     "code": "BGN",
@@ -87,7 +87,7 @@
     "code": "BHD",
     "decimals": 3,
     "name": "Bahraini dinar",
-    "number": "48"
+    "number": "048"
   },
   {
     "code": "BIF",
@@ -98,20 +98,20 @@
   {
     "code": "BMD",
     "decimals": 2,
-    "name": "Bermudian dollar (customarily known as Bermuda dollar)",
-    "number": "60"
+    "name": "Bermudian dollar",
+    "number": "060"
   },
   {
     "code": "BND",
     "decimals": 2,
     "name": "Brunei dollar",
-    "number": "96"
+    "number": "096"
   },
   {
     "code": "BOB",
     "decimals": 2,
     "name": "Boliviano",
-    "number": "68"
+    "number": "068"
   },
   {
     "code": "BOV",
@@ -129,31 +129,31 @@
     "code": "BSD",
     "decimals": 2,
     "name": "Bahamian dollar",
-    "number": "44"
+    "number": "044"
   },
   {
     "code": "BTN",
     "decimals": 2,
     "name": "Bhutanese ngultrum",
-    "number": "64"
+    "number": "064"
   },
   {
     "code": "BWP",
     "decimals": 2,
     "name": "Botswana pula",
-    "number": "72"
+    "number": "072"
   },
   {
-    "code": "BYR",
-    "decimals": 0,
+    "code": "BYN",
+    "decimals": 2,
     "name": "Belarusian ruble",
-    "number": "974"
+    "number": "933"
   },
   {
     "code": "BZD",
     "decimals": 2,
     "name": "Belize dollar",
-    "number": "84"
+    "number": "084"
   },
   {
     "code": "CAD",
@@ -187,7 +187,7 @@
   },
   {
     "code": "CLF",
-    "decimals": 0,
+    "decimals": 4,
     "name": "Unidad de Fomento (funds code)",
     "number": "990"
   },
@@ -267,7 +267,7 @@
     "code": "DZD",
     "decimals": 2,
     "name": "Algerian dinar",
-    "number": "12"
+    "number": "012"
   },
   {
     "code": "EGP",
@@ -409,7 +409,7 @@
   },
   {
     "code": "IRR",
-    "decimals": 0,
+    "decimals": 2,
     "name": "Iranian rial",
     "number": "364"
   },
@@ -463,7 +463,7 @@
   },
   {
     "code": "KPW",
-    "decimals": 0,
+    "decimals": 2,
     "name": "North Korean won",
     "number": "408"
   },
@@ -493,13 +493,13 @@
   },
   {
     "code": "LAK",
-    "decimals": 0,
+    "decimals": 2,
     "name": "Lao kip",
     "number": "418"
   },
   {
     "code": "LBP",
-    "decimals": 0,
+    "decimals": 2,
     "name": "Lebanese pound",
     "number": "422"
   },
@@ -522,12 +522,6 @@
     "number": "426"
   },
   {
-    "code": "LVL",
-    "decimals": 2,
-    "name": "Latvian lats",
-    "number": "428"
-  },
-  {
     "code": "LYD",
     "decimals": 3,
     "name": "Libyan dinar",
@@ -547,26 +541,26 @@
   },
   {
     "code": "MGA",
-    "decimals": 0,
+    "decimals": 1,
     "name": "Malagasy ariary",
     "number": "969"
   },
   {
     "code": "MKD",
-    "decimals": 0,
+    "decimals": 2,
     "name": "Macedonian denar",
     "number": "807"
   },
   {
     "code": "MMK",
-    "decimals": 0,
-    "name": "Myanma kyat",
+    "decimals": 2,
+    "name": "Myanmar kyat",
     "number": "104"
   },
   {
     "code": "MNT",
     "decimals": 2,
-    "name": "Mongolian tugrik",
+    "name": "Mongolian tögrög",
     "number": "496"
   },
   {
@@ -577,7 +571,7 @@
   },
   {
     "code": "MRO",
-    "decimals": 0,
+    "decimals": 1,
     "name": "Mauritanian ouguiya",
     "number": "478"
   },
@@ -674,7 +668,7 @@
   {
     "code": "PEN",
     "decimals": 2,
-    "name": "Peruvian nuevo sol",
+    "name": "Peruvian Sol",
     "number": "604"
   },
   {
@@ -686,7 +680,7 @@
   {
     "code": "PHP",
     "decimals": 2,
-    "name": "Philippine peso",
+    "name": "Philippine piso[10]",
     "number": "608"
   },
   {
@@ -716,7 +710,7 @@
   {
     "code": "RON",
     "decimals": 2,
-    "name": "Romanian new leu",
+    "name": "Romanian leu",
     "number": "946"
   },
   {
@@ -728,7 +722,7 @@
   {
     "code": "RUB",
     "decimals": 2,
-    "name": "Russian rouble",
+    "name": "Russian ruble",
     "number": "643"
   },
   {
@@ -747,7 +741,7 @@
     "code": "SBD",
     "decimals": 2,
     "name": "Solomon Islands dollar",
-    "number": "90"
+    "number": "090"
   },
   {
     "code": "SCR",
@@ -781,7 +775,7 @@
   },
   {
     "code": "SLL",
-    "decimals": 0,
+    "decimals": 2,
     "name": "Sierra Leonean leone",
     "number": "694"
   },
@@ -805,9 +799,15 @@
   },
   {
     "code": "STD",
-    "decimals": 0,
+    "decimals": 2,
     "name": "São Tomé and Príncipe dobra",
     "number": "678"
+  },
+  {
+    "code": "SVC",
+    "decimals": 2,
+    "name": "Salvadoran colón",
+    "number": "222"
   },
   {
     "code": "SYP",
@@ -836,7 +836,7 @@
   {
     "code": "TMT",
     "decimals": 2,
-    "name": "Turkmenistani manat",
+    "name": "Turkmenistan manat",
     "number": "934"
   },
   {
@@ -900,12 +900,6 @@
     "number": "997"
   },
   {
-    "code": "USS",
-    "decimals": 2,
-    "name": "United States dollar (same day) (funds code) (one source[who?] claims it is no longer used, but it is still on the ISO 4217-MA list)",
-    "number": "998"
-  },
-  {
     "code": "UYI",
     "decimals": 0,
     "name": "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)",
@@ -926,13 +920,13 @@
   {
     "code": "VEF",
     "decimals": 2,
-    "name": "Venezuelan bolívar fuerte",
+    "name": "Venezuelan bolívar",
     "number": "937"
   },
   {
     "code": "VND",
     "decimals": 0,
-    "name": "Vietnamese dong",
+    "name": "Vietnamese đồng",
     "number": "704"
   },
   {
@@ -962,7 +956,7 @@
   {
     "code": "XAU",
     "decimals": null,
-    "name": "Gold (one troy ounce)",
+    "name": "Gold (one troy ounce)\t",
     "number": "959"
   },
   {
@@ -1002,12 +996,6 @@
     "number": "960"
   },
   {
-    "code": "XFU",
-    "decimals": null,
-    "name": "UIC franc (special settlement currency)",
-    "number": "Nil"
-  },
-  {
     "code": "XOF",
     "decimals": 0,
     "name": "CFA franc BCEAO",
@@ -1032,10 +1020,22 @@
     "number": "962"
   },
   {
+    "code": "XSU",
+    "decimals": null,
+    "name": "SUCRE\tUnified System for Regional Compensation",
+    "number": "994"
+  },
+  {
     "code": "XTS",
     "decimals": null,
     "name": "Code reserved for testing purposes",
     "number": "963"
+  },
+  {
+    "code": "XUA",
+    "decimals": null,
+    "name": "ADB Unit of Account African Development Bank",
+    "number": "965"
   },
   {
     "code": "XXX",
@@ -1060,5 +1060,11 @@
     "decimals": 2,
     "name": "Zambian kwacha",
     "number": "967"
+  },
+  {
+    "code": "ZWL",
+    "decimals": 2,
+    "name": "Zimbabwean dollar A/10",
+    "number": "932"
   }
 ]
