@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/kobik/country-data.svg?branch=master)](https://travis-ci.org/kobik/country-data)
 
-Forked from https://github.com/OpenBookPrices/country-data
+Forked from https://github.com/OpenBookPrices/country-data as it is no longer maintained by its developer
 
 There are lots of little bits of data that you often need relating to countries,
 and I couldn't find any easy to use source of it. So I compiled it all here.
@@ -64,18 +64,18 @@ To make finding easier there are utility methods that can search the countries a
 ## Installing
 
 ``` bash
-npm install country-data
+npm install country-data-lookup
 ```
 
 
 ## Example usage
 
 ``` javascript
-var countries        = require('country-data').countries,
-    currencies       = require('country-data').currencies,
-    regions          = require('country-data').regions,
-    languages        = require('country-data').languages,
-    callingCountries = require('country-data').callingCountries;
+var countries        = require('country-data-lookup').countries,
+    currencies       = require('country-data-lookup').currencies,
+    regions          = require('country-data-lookup').regions,
+    languages        = require('country-data-lookup').languages,
+    callingCountries = require('country-data-lookup').callingCountries;
 
 // .all gives you an array of all entries
 console.log( countries.all );
@@ -95,7 +95,7 @@ console.log( regions.europe.countries )
 ```
 
 ``` javascript
-var lookup = require('country-data').lookup;
+var lookup = require('country-data-lookup').lookup;
 
 // Match a value (grab first from array)
 var france = lookup.countries({name: 'France'})[0];
