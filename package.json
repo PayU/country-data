@@ -23,12 +23,12 @@
   "license": "MIT",
   "devDependencies": {
     "canonical-json": "~0.0.4",
-    "chai": "~4.1.2",
-    "csv": "~0.4.6",
-    "mocha": "~2.2.5"
+    "chai": "^4.2.0",
+    "csv": "^0.4.6",
+    "mocha": "^6.2.0"
   },
   "dependencies": {
-    "currency-symbol-map": "~4.0.3",
-    "lodash": "~4.17.4"
+    "currency-symbol-map": "~4.0.4",
+    "lodash": "~4.17.15"
   }
 }
