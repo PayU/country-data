@@ -1,6 +1,6 @@
 {
   "name": "country-data-lookup",
-  "version": "0.0.3",
+  "version": "0.0.31",
   "description": "Country data lookup",
   "homepage": "https://github.com/kobik/country-data",
   "bugs": {
@@ -10,6 +10,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "files": [
+    "data",
+    "*.js"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/kobik/country-data.git"
@@ -19,7 +23,7 @@
     "country",
     "currency"
   ],
-  "author": "Kobi Carmeli",
+  "author": "Edmund von der Burg",
   "license": "MIT",
   "devDependencies": {
     "canonical-json": "~0.0.4",
